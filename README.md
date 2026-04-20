@@ -18,5 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ### Screen1
 ![Login](screenShot/screen1.png)
 
-### Screen1
+### Screen2
 ![Login](screenShot/screen2.png)
