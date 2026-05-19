@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "849194795711",
+    "project_id": "mostore-96b89",
+    "storage_bucket": "mostore-96b89.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849194795711:android:0ec7a463f44b523a14fc0a",
+        "android_client_info": {
+          "package_name": "com.example.homework2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEuu7KbeCH6IQsCZuMWBhqjKoiAaFJ4xE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
